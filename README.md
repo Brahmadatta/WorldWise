@@ -7,3 +7,6 @@ Implementing the website using reactJs with vite
 
 **Login Screen**
 <img width="1392" alt="Screenshot 2024-01-10 at 10 44 45 PM" src="https://github.com/Brahmadatta/WorldWise/assets/25858541/b7312f2f-8bdb-40d0-8c4d-9ae0f8da97bb">
+
+**Cities Screen**
+<img width="1399" alt="Screenshot 2024-01-11 at 10 42 32 PM" src="https://github.com/Brahmadatta/WorldWise/assets/25858541/b07a6977-3d2d-4cc5-9c56-23f696d68392">
