@@ -2,6 +2,9 @@
 /*eslint no-unused-vars: "warn"*/
 
 import { useState } from "react";
+import { useNavigate } from "react-router-dom";
+import BackButton from "./BackButton";
+import Button from "./Button";
 
 import styles from "./Form.module.css";
 
@@ -50,8 +53,8 @@ function Form() {
       </div>
 
       <div className={styles.buttons}>
-        <button>Add</button>
-        <button>&larr; Back</button>
+        <Button type="primary">ADD</Button>
+        <BackButton />
       </div>
     </form>
   );
