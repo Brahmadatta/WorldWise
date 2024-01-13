@@ -10,3 +10,6 @@ Implementing the website using reactJs with vite
 
 **Cities Screen**
 <img width="1399" alt="Screenshot 2024-01-11 at 10 42 32 PM" src="https://github.com/Brahmadatta/WorldWise/assets/25858541/b07a6977-3d2d-4cc5-9c56-23f696d68392">
+
+**Map Screen**
+<img width="1417" alt="Screenshot 2024-01-13 at 2 51 56 PM" src="https://github.com/Brahmadatta/WorldWise/assets/25858541/9a7ec81d-25fd-46f4-ac83-f15c867cdd1e">
